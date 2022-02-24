@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Chancellors speech in the Exchequer to Baron Thurland at the taking of his oath, 24 Jan., 1672/3</title>
+            <author>Nottingham, Heneage Finch, Earl of, 1621-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52528</idno>
+            <idno type="STC">Wing N1407</idno>
+            <idno type="STC">ESTC R14981</idno>
+            <idno type="EEBO-CITATION">13617901</idno>
+            <idno type="OCLC">ocm 13617901</idno>
+            <idno type="VID">100795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100795)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Chancellors speech in the Exchequer to Baron Thurland at the taking of his oath, 24 Jan., 1672/3</title>
+                  <author>Nottingham, Heneage Finch, Earl of, 1621-1682.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Heneage Finch, Earl of Nottingham.  Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100795:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:100795:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE Lord Chancellors SPEECH IN THE EXCHEQUER, TO BARON <hi>TH<g ref="char:V">Ʋ</g>RLAND</hi> At the Taking of his OATH, 24 <hi>Jan.</hi> 1672/3.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100795:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="3" facs="tcp:100795:2"/>
+            <!-- PDF PAGE 8 -->
+            <opener>
+               <salute>Mr. Serjeant <hi>Thurland,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King of his Grace and Favor, hath made choice of you to be One of the Barons of the <hi>Exchequer.</hi> He deſigned to place you in a Court of more profit, though not of more Dignity; but your own Modeſty and Vertue hath choſen this Court, where you thought you could ſerve the King beſt. And I could not omit to mention it here to your Honor, it being the greateſt inſtance of a good Man, That he had rather be found ſerviceable then rich. His Majeſty hath had large proof of your former Services; beſides He takes you upon the credit of that Recommenda<g ref="char:EOLhyphen"/>tion, that hath juſtly the beſt place with Him, I mean His Royal Brothers.</p>
+            <p>Some few things it is fit I ſhould here mention to you, and leave with you as Admonitions, or rather Remem<g ref="char:EOLhyphen"/>brances. In the firſt place, you are to maintain the <hi>Kings Prerogative;</hi> and let not the <hi>Kings Prerogative,</hi> and the <hi>Law,</hi> be two things with you. For the <hi>Kings Prerogative</hi> is <hi>Law,</hi> and the Principal Part of the <hi>Law;</hi> and therefore, in maintaining that, you maintain the <hi>Law.</hi> The Government of <hi>England</hi> is ſo excellently in<g ref="char:EOLhyphen"/>terwoven, that every part of the <hi>Prerogative</hi> hath a broad mixture of the Intereſt of the Subject; the eaſe and ſafety of the People being inſeparable from the Greatneſs and Security of the Crown.</p>
+            <p>In the next place, let me adviſe you, that you ac<g ref="char:EOLhyphen"/>quaint your ſelf with the <hi>Revenue;</hi> as alſo with the <hi>Ancient Records, Precedents,</hi> and <hi>Practice</hi> of this Court. For want of which knowledge, I have ſeen this Court a moſt excellent <hi>Common Pleas,</hi> when at the ſame time, I could not ſay ſo much for it as an <hi>Exchequer.</hi>
+            </p>
+            <p>In the third place, let me recommend to you, ſo to manage the <hi>Kings Juſtice</hi> and <hi>Revenue,</hi> as the King may
+<pb n="4" facs="tcp:100795:3"/>
+               <!-- PDF PAGE 9 -->have moſt <hi>Profit,</hi> and the Subject leaſt <hi>Vexation.</hi> Raking for old Debts; the number of Informations; Projects upon Concealments: I could not find in the Eleven years experience I have had in this Court, ever to ad<g ref="char:EOLhyphen"/>vantage the Crown. But ſuch proceedings have for the moſt part delivered up the Kings good Subjects into the hands of the worſt of men.</p>
+            <p>There is another thing I have obſerved in this Court, that I ſhall mind you of, which is, When the Court hearkens too much to the <hi>Clerks</hi> and <hi>Officers</hi> of it; and are too apt to ſend out <hi>Proceſs,</hi> when the Money may be raiſed by otherways more eaſie to the People. I do not ſay, That the Kings duty ſhould be loſt, or that the ſtricteſt courſe ſhould not be taken, rather then that be: But when you conſider, how much the <hi>Officers</hi> of this Court, and the <hi>
+                  <g ref="char:V">Ʋ</g>nder-Sheriffs,</hi> get by <hi>Proceſs</hi> upon ſmall Sums, more then the Kings duty comes to; and upon what ſort of People this falls, to wit, the <hi>Farmer, Husbandman,</hi> and <hi>Clothier</hi> in the Countrey, that is generally the <hi>Collector, Conſtable,</hi> and <hi>Tithingman;</hi> and ſo diſturbs the induſtrious part of the Nation, you think it fit to make that the laſt way, when no other will ſerve.</p>
+            <p>Give me leave alſo to mind you of one thing more, which is in your Oath, <hi>That the Kings needs ye ſhall ſpeed before all other:</hi> That is, the buſineſs of the <hi>Revenue of the Crown</hi> you are to diſpatch before all other, and not turn your Court into a Court of <hi>Common Pleas;</hi> and let that juſtle out what you were conſtituted for.</p>
+            <p>In the laſt place, let me conclude with what con<g ref="char:EOLhyphen"/>cerns all my <hi>Lords,</hi> the <hi>Judges,</hi> as well as you, let me recommend to you the <hi>Port,</hi> and way of living ſuitable to the dignity of your place, and what the King allows you. There is not any thing gains more Reputation and Reſpect to the Government, then that doth: And let me tell you, <hi>Magiſtrates</hi> as well as <hi>Merchants,</hi> are ſup<g ref="char:EOLhyphen"/>ported by <hi>Reputation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100795:3"/>
+            <!-- PDF PAGE 9 -->
+         </div>
+      </body>
+   </text>
+</TEI>
